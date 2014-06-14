@@ -5,15 +5,19 @@ Being a Puppeteer of your districts network with one platform has been made easy
 
 In this session we will introduce the concept of puppet and how it can be used to manage your district machines. How we use open source package management software with puppet to manage most software installs. This introductory session will help explain how to use puppet for the win.
 
-
 ##Resources
 
 ###Scripts
 * Script to install Puppet Master: [ubuntu-puppetmaster.sh](https://raw.githubusercontent.com/marcusmyers/puppet-bootstrap/master/ubuntu-puppetmaster.sh)
 * Scripts to install Puppet agents for all OSes [marcusmyers/puppet-bootstrap](https://github.com/marcusmyers/puppet-bootstrap)
+* Chocolatey Package scripts. [nastechdept/chocolatey-packages](https://bitbucket.org/nastechdept/chocolatey-packages)
 
 ###Images
 *  Marionette Icon - Marionette designed by Juan Pablo Bravo from the thenounproject.com
 ![Marionette Icon](/icon_39200/icon_39200.png)
 *  Puppet Icon - Puppet designed by Juan Pablo Bravo from the thenounproject.com
 ![Puppet Icon](/icon_39199/icon_39199.png)
+
+###Websites
+* [Wiki Comparison of OpenSource Configuration Management software](http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software)
+* [Install Puppet on DigitalOcean VPS](https://www.digitalocean.com/community/tutorials/how-to-install-puppet-on-a-digitalocean-vps)
