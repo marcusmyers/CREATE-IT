@@ -9,6 +9,6 @@ In this session we will introduce the concept of puppet and how it can be used t
 ###Resources
 
 *  Marionette Icon - Marionette designed by Juan Pablo Bravo from the thenounproject.com
-*  Puppet Icon - Puppet designed by Juan Pablo Bravo from the thenounproject.com
-
 ![Marionette Icon](/icon_39200/icon_39200.png)
+*  Puppet Icon - Puppet designed by Juan Pablo Bravo from the thenounproject.com
+![Puppet Icon](/icon_39199/icon_39199.png)
