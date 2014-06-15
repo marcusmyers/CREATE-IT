@@ -12,6 +12,11 @@ In this session we will introduce the concept of puppet and how it can be used t
 * Scripts to install Puppet agents for all OSes [marcusmyers/puppet-bootstrap](https://github.com/marcusmyers/puppet-bootstrap)
 * Chocolatey Package scripts. [nastechdept/chocolatey-packages](https://bitbucket.org/nastechdept/chocolatey-packages)
 
+###Websites
+* [Wiki Comparison of OpenSource Configuration Management software](http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software)
+* [Install Puppet on DigitalOcean VPS](https://www.digitalocean.com/community/tutorials/how-to-install-puppet-on-a-digitalocean-vps)
+
+
 ###Images
 *  Marionette Icon - Marionette designed by Juan Pablo Bravo from the thenounproject.com
 ![Marionette Icon](/icon_39200/icon_39200.png)
@@ -19,6 +24,3 @@ In this session we will introduce the concept of puppet and how it can be used t
 ![Puppet Icon](/icon_39199/icon_39199.png)
 *  Like Icon - Like designed by Marwa Boukarim from the thenounproject.com
 ![Like Icon](/icon_1297/icon_1297.png)
-###Websites
-* [Wiki Comparison of OpenSource Configuration Management software](http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software)
-* [Install Puppet on DigitalOcean VPS](https://www.digitalocean.com/community/tutorials/how-to-install-puppet-on-a-digitalocean-vps)
