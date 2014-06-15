@@ -17,7 +17,8 @@ In this session we will introduce the concept of puppet and how it can be used t
 ![Marionette Icon](/icon_39200/icon_39200.png)
 *  Puppet Icon - Puppet designed by Juan Pablo Bravo from the thenounproject.com
 ![Puppet Icon](/icon_39199/icon_39199.png)
-
+*  Like Icon - Like designed by Marwa Boukarim from the thenounproject.com
+![Like Icon](/icon_1297/icon_1297.png)
 ###Websites
 * [Wiki Comparison of OpenSource Configuration Management software](http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software)
 * [Install Puppet on DigitalOcean VPS](https://www.digitalocean.com/community/tutorials/how-to-install-puppet-on-a-digitalocean-vps)
