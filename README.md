@@ -10,7 +10,7 @@ In this session we will introduce the concept of puppet and how it can be used t
 ###Scripts
 * Script to install Puppet Master: [ubuntu-puppetmaster.sh](https://raw.githubusercontent.com/marcusmyers/puppet-bootstrap/master/ubuntu-puppetmaster.sh)
 * Scripts to install Puppet agents for all OSes [marcusmyers/puppet-bootstrap](https://github.com/marcusmyers/puppet-bootstrap)
-* Chocolatey Package scripts. [nastechdept/chocolatey-packages](https://bitbucket.org/nastechdept/chocolatey-packages)
+* Chocolatey Package scripts. [nastechdept/chocolatey-packages](https://bitbucket.org/techdept/chocolatey-packages)
 
 ###Websites
 * [Wiki Comparison of OpenSource Configuration Management software](http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software)
