@@ -26,3 +26,5 @@ In this session we will introduce the concept of puppet and how it can be used t
 ![Like Icon](/icon_1297/icon_1297.png)
 *  No designed by SuperAtic LABS from the thenounproject.com
 ![No Icon](/icon_35502/icon_35502.png)
+* Money designed by Lemon Liu from the thenounproject.com
+![Money Icon](/icon_8174/icon_8174.png)
