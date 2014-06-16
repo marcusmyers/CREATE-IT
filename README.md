@@ -24,3 +24,5 @@ In this session we will introduce the concept of puppet and how it can be used t
 ![Puppet Icon](/icon_39199/icon_39199.png)
 *  Like Icon - Like designed by Marwa Boukarim from the thenounproject.com
 ![Like Icon](/icon_1297/icon_1297.png)
+*  No designed by SuperAtic LABS from the thenounproject.com
+![No Icon](/icon_35502/icon_35502.png)
